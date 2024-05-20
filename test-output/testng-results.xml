@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T15:57:05 IST" name="Default suite" finished-at="2024-04-24T15:57:09 IST" duration-ms="4056">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T15:57:05 IST" name="Default test" finished-at="2024-04-24T15:57:09 IST" duration-ms="4056">
+      <class name="testCase1.LoginModule.TC001_LoginValidation">
+        <test-method is-config="true" signature="loginAPI()[pri:0, instance:testCase1.LoginModule.TC001_LoginValidation@791f145a]" started-at="2024-04-24T15:57:05 IST" name="loginAPI" finished-at="2024-04-24T15:57:09 IST" duration-ms="3782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI -->
+        <test-method signature="loginAPI_ResponseBody()[pri:0, instance:testCase1.LoginModule.TC001_LoginValidation@791f145a]" started-at="2024-04-24T15:57:09 IST" name="loginAPI_ResponseBody" finished-at="2024-04-24T15:57:09 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI_ResponseBody -->
+        <test-method signature="loginAPI_StatusCode()[pri:0, instance:testCase1.LoginModule.TC001_LoginValidation@791f145a]" started-at="2024-04-24T15:57:09 IST" name="loginAPI_StatusCode" finished-at="2024-04-24T15:57:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI_StatusCode -->
+        <test-method signature="loginAPI_checkContentType()[pri:0, instance:testCase1.LoginModule.TC001_LoginValidation@791f145a]" started-at="2024-04-24T15:57:09 IST" name="loginAPI_checkContentType" finished-at="2024-04-24T15:57:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI_checkContentType -->
+        <test-method signature="loginAPI_checkResponseTime()[pri:0, instance:testCase1.LoginModule.TC001_LoginValidation@791f145a]" started-at="2024-04-24T15:57:09 IST" name="loginAPI_checkResponseTime" finished-at="2024-04-24T15:57:09 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI_checkResponseTime -->
+        <test-method signature="loginAPI_checkServerType()[pri:0, instance:testCase1.LoginModule.TC001_LoginValidation@791f145a]" started-at="2024-04-24T15:57:09 IST" name="loginAPI_checkServerType" finished-at="2024-04-24T15:57:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI_checkServerType -->
+        <test-method signature="loginAPI_checkStatusLine()[pri:0, instance:testCase1.LoginModule.TC001_LoginValidation@791f145a]" started-at="2024-04-24T15:57:09 IST" name="loginAPI_checkStatusLine" finished-at="2024-04-24T15:57:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI_checkStatusLine -->
+        <test-method signature="loginAPI_printAllHeader()[pri:0, instance:testCase1.LoginModule.TC001_LoginValidation@791f145a]" started-at="2024-04-24T15:57:09 IST" name="loginAPI_printAllHeader" finished-at="2024-04-24T15:57:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI_printAllHeader -->
+      </class> <!-- testCase1.LoginModule.TC001_LoginValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

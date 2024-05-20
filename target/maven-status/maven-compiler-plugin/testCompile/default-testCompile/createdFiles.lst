@@ -1,0 +1,5 @@
+functionalTesting\GetRequestAutomation.class
+studentAPITest\GetAPITests.class
+functionalTesting\PostRequestAutomation.class
+baseTest\BaseTest.class
+studentAPITest\PostAPITest.class

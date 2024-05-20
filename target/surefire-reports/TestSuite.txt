@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 1.611 s <<< FAILURE! - in TestSuite
+getAPITests(studentAPITest.GetAPITests)  Time elapsed: 0.314 s  <<< FAILURE!
+java.lang.IllegalArgumentException: baseURI cannot be null
+	at studentAPITest.GetAPITests.getAPITests(GetAPITests.java:21)
+
+validPostAPITest(studentAPITest.PostAPITest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.IllegalArgumentException: baseURI cannot be null
+	at studentAPITest.PostAPITest.validPostAPITest(PostAPITest.java:41)
+
